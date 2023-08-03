@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "CN"
-title                    : "Haoyue Bai/Personal Homepage"
+title                    : "Main"
 title_separator          : "-"
 name                     : &name "Haoyue Bai"
 description              : &description "personal description"
