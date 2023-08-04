@@ -14,8 +14,8 @@ My name is HaoYue Bai. Currently, I am a graduate student at Hefei University of
 2023.07 One paper has been accepted by MM, with the topic of generative cold-start recommendation.
 
 ## 📖 Education
-### B.Eng. Data Science and Big Data Technology, Central South University, Hunan, China    		09/2016 - 06/2020
-### M.Eng. Software Engineering, Hefei University of Technology, Anhui, China					        09/2021 – 06/2024(expected)  
+B.Eng. Data Science and Big Data Technology, Central South University, Hunan, China
+M.Eng. Software Engineering, Hefei University of Technology, Anhui, China  
 
 
 ## 📃 Publictions
