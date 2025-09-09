@@ -35,12 +35,15 @@ jobs:
             exit 1
           fi
           
+          # 确保.nojekyll文件存在，禁用Jekyll处理
+          touch .nojekyll
+          
           # 创建必要的目录结构
           mkdir -p assets/css assets/js assets/fonts
           
           # 检查必要文件是否存在
           echo "Checking required files..."
-          ls -la index.html styles.css script.js
+          ls -la index.html styles.css script.js .nojekyll
           
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
