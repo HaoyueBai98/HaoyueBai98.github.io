@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "CN"
-title                    : "Main"
+title                    : "Haoyue Bai"
 title_separator          : "-"
 name                     : &name "Haoyue Bai"
-description              : &description "personal description"
+description              : &description "学术主页 - Haoyue Bai的个人网站"
 url                      : https://HaoyueBai98.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "HaoyueBai98/HaoyueBai98.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Haoyue Bai"
   avatar           : "me.png"
-  bio              : "I was very thin then."
-  location         : "P.R.China"
-  employer         :
+  bio              : "请在此处添加您的个人简介"
+  location         : "中国"
+  employer         : "请在此处添加您的单位"
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : # "http://yourfullgooglescholarurl.com"
-  email            :
+  email            : # "your.email@example.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
