@@ -599,7 +599,7 @@ section {
     
     .profile-img {
         width: 200px;
-        height: 200px;
+        height: 300px;
     }
     
     .btn {
@@ -650,9 +650,9 @@ html {
 /* Alternative: Make it even smaller */
 .mapmyvisitors-container {
     max-width: 300px;
-    height: 200px;
+    height: 300px;
     margin: 20px auto;
-    overflow: hidden;
+    overflow: visible;
     border-radius: 8px;
     box-shadow: 0 2px 10px rgba(0,0,0,0.1);
 }
