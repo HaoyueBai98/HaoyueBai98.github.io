@@ -638,3 +638,22 @@ html {
 .fade-in-up {
     animation: fadeInUp 0.6s ease-out;
 }
+
+/* MapMyVisitors Widget Styling */
+#mapmyvisitors {
+    max-width: 400px !important;
+    height: 300px !important;
+    margin: 20px auto !important;
+    display: block !important;
+}
+
+/* Alternative: Make it even smaller */
+.mapmyvisitors-container {
+    max-width: 300px;
+    height: 200px;
+    margin: 20px auto;
+    overflow: hidden;
+    border-radius: 8px;
+    box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+}
+
